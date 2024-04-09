@@ -19,7 +19,8 @@ The real estate agency faces challenges in accurately valuing properties, which 
 
 
 ## Baseline model interpretation
-![awesome]("C:\Users\Victor Keya\Documents\Flatiron\Phase2_project\dsc-phase-2-project-v2-3\data\baseline.png")
+![Baseline_Model]("https://github.com/vkeya/Phase2_Project/blob/main/data/baseline.png")
+
 Our linear regression model is Price = 0.2923 * Grading + 10.7957.
 With a significance level of 0.05, our linear regression model is significant with a p value F statistic of 0.0.
 The model explains about 42% of Price as indicated by the R squared.
@@ -33,11 +34,13 @@ We used f statistic p value to test for significance.
 We also used R squared and RMSE.
 
 ## Second Model Interpretation( Multiple_Linear_Regression )
+![Multiple_Linear_Regression](https://github.com/vkeya/Phase2_Project/blob/main/data/multilinear_regression.png)
 The model explains 69% of the variance in price as indicated by R squared
 Therefore the multiple linear regression is better than our baseline regression
 
 
 ## polynomial regression
+![Polynomial_Regression](https://github.com/vkeya/Phase2_Project/blob/main/data/polynomial_regression.png)
 Given that polynomial regression accounts for roughly 76% of the volatility in house prices—a percentage
 somewhat greater than that explained by multiple linear regression—it is clear that polynomial regression is a
 superior model in this particular situation. Polynomial regression also has a less Root Squared Mean Error than
