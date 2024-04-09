@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 ![awesome](https://e0.pxfuel.com/wallpapers/657/834/desktop-wallpaper-real-estate-real-estate-agent.jpg)
 # Business Understanding
