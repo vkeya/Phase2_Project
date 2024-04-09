@@ -19,7 +19,7 @@ The real estate agency faces challenges in accurately valuing properties, which 
 
 
 ## Baseline model interpretation
-![Baseline_Model]("https://github.com/vkeya/Phase2_Project/blob/main/data/baseline.png")
+![Baseline_Model](https://github.com/vkeya/Phase2_Project/blob/main/data/baseline.png)
 
 Our linear regression model is Price = 0.2923 * Grading + 10.7957.
 With a significance level of 0.05, our linear regression model is significant with a p value F statistic of 0.0.
