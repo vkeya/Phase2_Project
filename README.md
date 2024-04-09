@@ -19,6 +19,7 @@ The real estate agency faces challenges in accurately valuing properties, which 
 
 
 ## Baseline model interpretation
+![awesome]("C:\Users\Victor Keya\Documents\Flatiron\Phase2_project\dsc-phase-2-project-v2-3\data\baseline.png")
 Our linear regression model is Price = 0.2923 * Grading + 10.7957.
 With a significance level of 0.05, our linear regression model is significant with a p value F statistic of 0.0.
 The model explains about 42% of Price as indicated by the R squared.
