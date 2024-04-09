@@ -7,7 +7,7 @@ The real estate agency aims to provide accurate property valuations to homeowner
 ## Problem Statement
 The real estate agency faces challenges in accurately valuing properties, which can lead to overpricing or underpricing homes, affecting client satisfaction, time on market, and overall business performance
 
-OBJECTIVES:
+## OBJECTIVES:
 
 1.Determine the key factors such as square foot living,the number of bedrooms and bathrooms,the condition of the house and others that significantly influence the house prices.
 
