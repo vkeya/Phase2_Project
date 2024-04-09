@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+
+
+![awesome](https://e0.pxfuel.com/wallpapers/657/834/desktop-wallpaper-real-estate-real-estate-agent.jpg)
 # Business Understanding
 The real estate agency aims to provide accurate property valuations to homeowners looking to sell their homes and to buyers interested in purchasing properties. Property valuation is a critical aspect of real estate transactions as it directly impacts pricing decisions, marketing strategies, and negotiation outcomes.
 ## Problem Statement
